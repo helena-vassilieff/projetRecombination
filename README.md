@@ -3,7 +3,7 @@ create a directory : data/family/Romane/
 in this directory put the hotspot file and the linkphase.in repertory (in wich we can find chr_x repertory)
 scripts overlap.py and alpha.py are int the code/ repertory with Recombinations_analyses.py (ESSENTIAL to run properly overlap.py and alpha.py)
 
-to run the both scripts execute this command (hotspot file and linkphase.in repertory are needed):
+to run the both scripts execute this command (hotspot file and linkphase.in or duohmm repertories are needed):
 python3 code/overlap.py (or alpha.py or duo2link.py) -hot data/family/Romane/hotspot_600k.txt -lphase data/family/Romane/linkphase.in/ 
 
 you can precise option normally by default
